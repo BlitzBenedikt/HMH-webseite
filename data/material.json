@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "Tontechnik",
+      "description": "HMH Eventtechnik bietet ein großes Angebot an Tontechnik. <br> <br> Von der großen Musikanlage mit 1000 Watt Bässen oder mehreren Monitoren bis hin zum Funkmikro und Digitalmischpult. Bei uns findest du alles für deine Veranstaltung und das auch mit Professioneller Begleitung eines Tontechnikers.",
+      "images": ["assets/Ton.png", "assets/Ton2.png"]
+    },
+    {
+      "name": "Licht-Set Basic",
+      "description": "Wir bringen Licht ins Dunkeln! <br> <br> Mit einer großen Auswahl mit qualitativen Licht und Lichtshow bieten wir alle Bereiche in der Lichttechnik an. Von der LED Partybeleuchtung, Bewegungseffekten, Nebelmaschine bis hin zur Discokugel ist alles mit dabei. Aber auch die Ambientebeleuchtung mit Akkuscheinwerdern darf nicht fehlen. Zusätzlich ist auch eine individuelle Lichtshow oder ein Lichttechniker buchbar.",
+      "images": ["assets/Licht.png", "assets/Licht-2.png"]
+    },
+    {
+      "name": "DJ-Set (Controller + Laptop)",
+      "description": "Dein Event, unser Beat! <br> <br> Mit Professioneller DJ-Begleitung inkl. Musikanlage und Lichtshow bringen wir deine Party zum Erfolg. Mit gewünschter Playlist rücken wir an und bringen die Meute zum Tanzen und feiern.",
+      "image": "assets/DJ_Set.jpeg"
+    }
+  ]
+}

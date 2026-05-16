@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#fff7ed"/>
+  <g fill="#fb923c">
+    <circle cx="150" cy="120" r="40" />
+    <circle cx="300" cy="120" r="40" />
+    <circle cx="450" cy="120" r="40" />
+  </g>
+  <text x="40" y="360" font-family="Arial, sans-serif" font-size="20" fill="#92400e">Licht-Set Basic (Platzhalter)</text>
+</svg>
